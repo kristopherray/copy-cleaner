@@ -1,4 +1,4 @@
-# Copy Cleaner
+# Raycast v2.11.1.0 Copy Cleaner
 
 Copy text, open **Copy Clean** in Raycast, and press **Return** on a preview to replace the clipboard with the full result.
 
